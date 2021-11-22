@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  69 of 151 functions (45.7%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  chaos.vcxproj -> C:\Users\nikod\Desktop\chaosext\chaos\x64\Release\chaos.exe

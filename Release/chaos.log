@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  main.cpp
+C:\Users\nikod\Desktop\chaosext\chaos\LeMenu.h(24,7): warning C4101: 'MainMenu': unreferenced local variable
+C:\Users\nikod\Desktop\chaosext\chaos\LeMenu.h(22,7): warning C4101: 'infHelth': unreferenced local variable
+C:\Users\nikod\Desktop\chaosext\chaos\LeMenu.h(21,7): warning C4101: 'infAmo': unreferenced local variable
+C:\Users\nikod\Desktop\chaosext\chaos\LeMenu.h(23,7): warning C4101: 'infGame': unreferenced local variable
+  proc.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  chaos.vcxproj -> C:\Users\nikod\Desktop\chaosext\chaos\Release\chaos.exe
